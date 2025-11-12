@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e7a0255beb544c409c00aafe6417e18, type: 3}
+  m_Name: FleeState
+  m_EditorClassIdentifier: Assembly-CSharp::FleeStateSO
+  startCondition: {fileID: 11400000, guid: e4c4d81f0da9ba3478db47e90a68e905, type: 2}
+  endConditions:
+  - {fileID: 11400000, guid: 99efcc00352cae145acc07146a79d3b7, type: 2}
