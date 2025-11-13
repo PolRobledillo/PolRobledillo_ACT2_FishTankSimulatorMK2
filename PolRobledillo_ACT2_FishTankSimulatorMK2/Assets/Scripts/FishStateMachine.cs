@@ -33,6 +33,7 @@ public class FishStateMachine : MonoBehaviour
 
     void Start()
     {
+        ObjectsManager.instance.RegisterFish(this);
         if (currentState != null)
         {
             currentState.OnStateEnter(this);

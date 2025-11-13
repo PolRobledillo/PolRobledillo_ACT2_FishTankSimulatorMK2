@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChaseStateSO
   startCondition: {fileID: 11400000, guid: 8b3c0959742cd9743a702a92e5ce8cc1, type: 2}
   endConditions:
+  - {fileID: 11400000, guid: 7e3f8411a00fd7a4fb0d92daf817de03, type: 2}
   - {fileID: 11400000, guid: 1c52f3ded3ee77948b6e4882f19ede0f, type: 2}
   - {fileID: 11400000, guid: df210da8eb8c9c044a5ed213695b624c, type: 2}

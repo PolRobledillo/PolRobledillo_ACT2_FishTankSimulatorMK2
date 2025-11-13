@@ -242,7 +242,7 @@ MonoBehaviour:
   maxVelocity: 10
   maxSpeed: 10
   maxForce: 10
-  mass: 200
+  mass: 500
   velocity: {x: 0, y: 0, z: 0}
   fishType: 0
   detectionRadius: 6

@@ -4972,15 +4972,17 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e58c963857e53cc46a8d74831b32fea5, type: 2}
   - {fileID: 11400000, guid: e0d721860859b544492d8fc8a634b335, type: 2}
   target: {fileID: 0}
-  maxVelocity: 5
-  maxSpeed: 10
-  maxForce: 0.5
-  mass: 1
+  maxVelocity: 10
+  maxSpeed: 20
+  maxForce: 10
+  mass: 750
   velocity: {x: 0, y: 0, z: 0}
-  fishType: 0
+  fishType: 1
   detectionRadius: 6
   maxVisionDistance: 7.5
   maxAvoidanceForce: 10
+  wanderTimer: 0
+  wanderPosition: {x: 0, y: 0, z: 0}
   wanderParticles: {fileID: 5733664131973282186}
   fastParticles: {fileID: 5946737926944236148}
 --- !u!1 &7325545901021352504
